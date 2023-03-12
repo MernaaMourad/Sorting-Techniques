@@ -1,0 +1,13 @@
+Sorted array in Acsending selection Order:
+2 10 12 15 20
+Sorted array in Acsending insertion Order:
+2 10 12 15 20
+Sorted array in Acsending bubblesort Order:
+2 10 12 15 20
+Sorted array in Acsending mergesort Order:
+2 10 12 15 20
+Sorted array in Acsending quicksort Order:
+2 10 12 15 20
+
+Process returned 0 (0x0)   execution time : 0.047 s
+Press any key to continue.
